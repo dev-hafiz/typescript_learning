@@ -14,7 +14,7 @@ let tup: [string, number] = ["hello", 42];
 enum Color { Red, Green, Blue };
 let obj: { name: string, age: number } = { name: "Alice", age: 30 };
 let func: (x: number) => number = (x) => x * 2;
-class Person { name: string; age: number; };
+// class Person { name: string; age: number; };
 interface Shape { area(): number; };
 
 

@@ -19,9 +19,6 @@ var Color;
 ;
 let obj = { name: "Alice", age: 30 };
 let func = (x) => x * 2;
-class Person {
-}
-;
 ;
 // Special Types
 let anyVal = "flexible";

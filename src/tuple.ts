@@ -20,3 +20,8 @@ function getUserInfo(): [string, number] {
 
 // let [name, age] = getUserInfo();
 
+
+//* Representing Fixed-Size Data Structures:
+type Point = [number, number];
+let point: Point = [10, 20];
+

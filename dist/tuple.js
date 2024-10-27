@@ -12,4 +12,4 @@ console.log(isAdult);
 function getUserInfo() {
     return ["Alice", 30];
 }
-// let [name, age] = getUserInfo();
+let point = [10, 20];
